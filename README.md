@@ -1,2 +1,24 @@
-# Vue.js-Basic
-he i have did some base staff of vue.js Creating Component, Interpolation, Methods , two way binding, Events, Getting Input Data, If Else , for loop, passing Data from parent to child etc
+# blog
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
